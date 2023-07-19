@@ -1,6 +1,6 @@
 # youtube-vape-classification
 
-**Introduction: 
+**Introduction**: 
 
 YouTube is a popular social media used by youth and has electronic cigarette (e-cigarette) content. We used machine learning to identify the content of e-cigarette videos, featured e-cigarette products, video uploaders, and marketing and sales of e-cigarette products.
 
